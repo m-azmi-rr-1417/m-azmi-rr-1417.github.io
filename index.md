@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Latihan-Latihan Proyek Data Science 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Customer Segmentation with Python](/sample_page)\
+<img src="images/Figure 2022-08-10 172844.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
