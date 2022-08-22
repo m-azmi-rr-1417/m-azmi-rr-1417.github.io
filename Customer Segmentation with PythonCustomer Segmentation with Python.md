@@ -8,7 +8,7 @@ Dalam menentukan banyaknya cluster itu tidak sembarangan. Harus dicari nilai opt
 Inertia plot menunjukkan bahwa banyaknya cluster yang terletak pada “elbow” adalah 5 sehingga banyak cluster yang optimal untuk proyek ini adalah 5.
 ## Pembuatan Model
 Selanjutnya melakukan pembuatan model berdasarkan banyak cluster yang sudah ditentukan yakni 5. Model disimpan dalam variabel bernama “kproto”.\
-<img src="Customer Segmentation with Python/2.png?raw=true"/>\
+<img src="Customer Segmentation with Python/2.png?raw=true"/>
 ## Penentuan Segmen
 Model lalu digunakan untuk menentukan segmen tiap pelanggan. Hasil segmentasi disimpan dalam dataframe bernama “df_final”. Untuk pengecekan, 10 data teratas dari hasil segmentasi akan ditampilkan.\
 <img src="Customer Segmentation with Python/3.png?raw=true"/>\
