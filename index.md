@@ -4,8 +4,8 @@
 
 ### Latihan-Latihan Proyek Data Science 
 
-[Customer Segmentation with Python](/sample_page)\
-<img src="images/Figure 2022-08-10 172844.png?raw=true"/>
+[Customer Segmentation with Python](/Customer Segmentation with Python)\
+<img src="Customer Segmentation with Python/7.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
