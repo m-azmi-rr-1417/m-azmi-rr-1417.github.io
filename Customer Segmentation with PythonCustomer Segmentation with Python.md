@@ -24,4 +24,21 @@ Box plot dari kolom Umur memberikan informasi perihal karakteristik rentang umur
 * Box Plot Nilai Belanja Setahun\
 <img src="Customer Segmentation with Python/7.png?raw=true"/>\
 Box plot dari kolom Nilai Belanja Setahun memberikan informasi perihal karakteristik rentang nilai belanja selama setahun di tiap-tiap kategori cluster. Adanya tulisan “1e7” di atas sumbu y bermakna bahwa nilai sebenarnya dari sumbu y adalah di kali 10^7. Dari box plot ini dapat dipahami bahwa nilai belanja setahun dari anggota-anggota cluster 0 berada di sekitaran 3 juta, nilai belanja setahun dari anggota-anggota cluster 1 berada di sekitaran 10 juta, nilai belanja setahun dari anggota-anggota cluster 2 berada di sekitaran 5,5 juta, nilai belanja setahun dari anggota-anggota cluster 3 berada di sekitaran 10 juta, dan nilai belanja setahun dari anggota-anggota cluster 4 berada di sekitaran 5,5 juta.
-* 
+* Count Plot Profesi\
+<img src="Customer Segmentation with Python/8.png?raw=true"/>\
+Count plot dari kolom Profesi menunjukkan karakteristik dari jenis profesi anggota-anggota cluster. Dari count plot ini dapat dipahami bahwa anggota-anggota cluster 0 merupakan para pelajar dan mahasiswa, anggota-anggota cluster 1 merupakan para wiraswasta, anggota-anggota cluster 2 merupakan para profesional dan ibu rumah tangga, anggota-anggota cluster 3 merupakan para wiraswasta, dan anggota-anggota cluster 4 merupakan para profesional dan ibu rumah tangga.
+* Count Plot Jenis Kelamin\
+<img src="Customer Segmentation with Python/8.png?raw=true"/>\
+Count plot dari kolom Jenis Kelamin menunjukkan karakteristik dari jenis kelamin anggota-anggota cluster. Dari count plot ini dapat dipahami bahwa anggota-anggota cluster 0 dan 3 semuanya adalah wanita, anggota-anggota cluster 1, 2, dan 4 ada yang pria dan ada yang wanita.
+## Hasil Observasi
+Berdasarkan observasi yang sudah dilakukan pada visualisasi data, saya akan memberikan nama yang menggambarkan masing-masing cluster yakni :
+* Cluster 0 saya namakan Silver Young Member. Hal ini karena anggota dari cluster 0 berumur di rentang 14-19 tahun dengan nilai belanja setahunnya di sekitaran 3 juta.
+* Cluster 1 saya namakan Diamond Senior Member. Hal ini karena anggota dari cluster 1 berumur di rentang 45-64 tahun dengan nilai belanja setahunnya di sekitaran 10 juta.
+* Cluster 2 saya namakan Gold Senior Member. Hal ini karena anggota dari cluster 2 berumur di rentang 46-63 tahun dengan nilai belanja setahunnya di sekitaran 5,5 juta.
+* Cluster 3 saya namakan Diamond Young Member. Hal ini karena anggota dari cluster 3 berumur di rentang 18-41 tahun dengan nilai belanja setahunnya di sekitaran 10 juta.
+* Cluster 4 saya namakan Gold Young Member. Hal ini karena anggota dari cluster 4 berumur di rentang 20-40 tahun dengan nilai belanja setahunnya di sekitaran 5,5 juta.
+Berdasarkan observasi tersebut, saya juga mendapatkan beberapa insight yakni :
+* Member yang paling berharga yakni diamond member ternyata sejauh ini hanya merupakan para pengusaha. Oleh karena itu, saya sarankan untuk memprioritaskan target pemasaran pada para pengusaha mengingat merekalah kelompok yang menyumbangkan nilai belanja paling tinggi pada perusahaan ini.
+* Gold member sejauh ini hanya diisi oleh para professional dan ibu rumah tangga, lalu silver member sejauh ini hanya diisi oleh para pelajar dan mahasiswa.
+* Pelanggan sejauh ini didominasi oleh wanita dengan persentase 82%. Perbedaannya sangat jauh mengingat persentase pria hanya 18% sehingga bisa jadi secara natural memang kalangan wanitalah yang cenderung tertarik untuk belanja di perusahaan ini. Oleh karena itu, saya sarankan untuk memprioritaskan target pemasaran pada wanita.
+* Kalangan yang sebaiknya paling diprioritaskan sebagai target pemasaran adalah para pengusaha wanita.
