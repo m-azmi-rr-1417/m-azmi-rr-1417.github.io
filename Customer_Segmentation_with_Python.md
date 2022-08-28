@@ -47,7 +47,7 @@ Berdasarkan observasi tersebut, saya juga mendapatkan beberapa insight yakni :
 * Member yang paling berharga yakni diamond member ternyata sejauh ini hanya merupakan para pengusaha. Oleh karena itu, saya sarankan untuk memprioritaskan target pemasaran pada para pengusaha mengingat merekalah kelompok yang menyumbangkan nilai belanja paling tinggi pada perusahaan ini.
 * Gold member sejauh ini hanya diisi oleh para professional dan ibu rumah tangga, lalu silver member sejauh ini hanya diisi oleh para pelajar dan mahasiswa.
 * Pelanggan sejauh ini didominasi oleh wanita dengan persentase 82%. Perbedaannya sangat jauh mengingat persentase pria hanya 18% sehingga bisa jadi secara natural memang kalangan wanitalah yang cenderung tertarik untuk belanja di perusahaan ini. Oleh karena itu, saya sarankan untuk memprioritaskan target pemasaran pada wanita.
-* Kalangan yang sebaiknya paling diprioritaskan sebagai target pemasaran adalah para pengusaha wanita.
+* Kalangan yang sebaiknya paling diprioritaskan sebagai target pemasaran adalah para pengusaha wanita.  
 ## Memprediksi Segmen pada Data Baru
 Model yang sudah dibuat juga dapat digunakan sehari-hari untuk memprediksi segmen pada data-data baru. Dengan kemampuan prediksi tersebut, maka tim bisnis dapat dengan cepat mengetahui segmen dari pelanggan sehingga bisa mengatur strategi marketing dengan lebih efisien.
 Berikut ini ada 1 data baru yang akan saya coba prediksikan menggunakan model bernama “kproto” yang tadi dibuat.  
