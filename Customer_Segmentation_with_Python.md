@@ -8,12 +8,12 @@ Dalam menentukan banyaknya cluster itu tidak sembarangan. Harus dicari nilai opt
 <img src="Customer Segmentation with Python/1.png?raw=true"/>  
 Inertia plot menunjukkan bahwa banyaknya cluster yang terletak pada “elbow” adalah 5 sehingga banyak cluster yang optimal untuk proyek ini adalah 5.
 
-## Pembuatan Model
-Selanjutnya melakukan pembuatan model berdasarkan banyak cluster yang sudah ditentukan yakni 5. Model disimpan dalam variabel bernama “kproto”.  
+## Pemodelan
+Selanjutnya melakukan pemodelan berdasarkan banyak cluster yang sudah ditentukan yakni 5. Hasil pemodelan disimpan dalam variabel bernama “kproto”.  
 <img src="Customer Segmentation with Python/2.png?raw=true"/>
 
-## Penentuan Segmen
-Model lalu digunakan untuk menentukan segmen tiap pelanggan. Hasil segmentasi disimpan dalam dataframe bernama “df_final”. Untuk pengecekan, 10 data teratas dari hasil segmentasi akan ditampilkan.  
+## Segmentasi
+Model lalu digunakan untuk melakukan segmentasi pada semua pelanggan. Hasil segmentasi disimpan dalam dataframe bernama “df_final”. Untuk pengecekan, 10 data teratas dari hasil segmentasi akan ditampilkan.  
 <img src="Customer Segmentation with Python/3.png?raw=true"/>  
 <img src="Customer Segmentation with Python/4.png?raw=true"/>  
 Nampak kolom cluster yang merupakan hasil dari segmentasi. Kita perlu mengobservasi kolom cluster ini agar dapat insightnya. Observasi dilakukan lewat visualisasi.
