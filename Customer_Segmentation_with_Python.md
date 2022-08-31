@@ -40,8 +40,8 @@ Berdasarkan observasi yang sudah dilakukan pada visualisasi data, saya akan memb
 * Cluster 0 saya namakan Silver Young Member. Hal ini karena anggota dari cluster 0 berumur di rentang 14-19 tahun dengan nilai belanja setahunnya di sekitaran 3 juta.
 * Cluster 1 saya namakan Diamond Senior Member. Hal ini karena anggota dari cluster 1 berumur di rentang 45-64 tahun dengan nilai belanja setahunnya di sekitaran 10 juta.
 * Cluster 2 saya namakan Gold Senior Member. Hal ini karena anggota dari cluster 2 berumur di rentang 46-63 tahun dengan nilai belanja setahunnya di sekitaran 5,5 juta.
-* Cluster 3 saya namakan Diamond Young Member. Hal ini karena anggota dari cluster 3 berumur di rentang 18-41 tahun dengan nilai belanja setahunnya di sekitaran 10 juta.
-* Cluster 4 saya namakan Gold Young Member. Hal ini karena anggota dari cluster 4 berumur di rentang 20-40 tahun dengan nilai belanja setahunnya di sekitaran 5,5 juta.
+* Cluster 3 saya namakan Diamond Adult Member. Hal ini karena anggota dari cluster 3 berumur di rentang 18-41 tahun dengan nilai belanja setahunnya di sekitaran 10 juta.
+* Cluster 4 saya namakan Gold Adult Member. Hal ini karena anggota dari cluster 4 berumur di rentang 20-40 tahun dengan nilai belanja setahunnya di sekitaran 5,5 juta.
 
 Berdasarkan observasi tersebut, saya juga mendapatkan beberapa insight yakni :
 * Member yang paling berharga yakni diamond member ternyata sejauh ini hanya merupakan para pengusaha. Oleh karena itu, saya sarankan untuk memprioritaskan target pemasaran pada para pengusaha mengingat merekalah kelompok yang menyumbangkan nilai belanja paling tinggi pada perusahaan ini.
