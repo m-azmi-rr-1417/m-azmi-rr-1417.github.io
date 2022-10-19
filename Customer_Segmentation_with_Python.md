@@ -43,7 +43,7 @@ Berdasarkan observasi yang sudah dilakukan pada visualisasi data, saya akan memb
 * Cluster 3 saya namakan Diamond Adult Member. Hal ini karena anggota dari cluster 3 berumur di rentang 18-41 tahun dengan nilai belanja setahunnya di sekitaran 10 juta.
 * Cluster 4 saya namakan Gold Adult Member. Hal ini karena anggota dari cluster 4 berumur di rentang 20-40 tahun dengan nilai belanja setahunnya di sekitaran 5,5 juta.
 
-Berdasarkan observasi tersebut, saya juga mendapatkan beberapa insight yakni :
+Berdasarkan observasi tersebut, saya juga mendapatkan beberapa insight lainnya yakni :
 * Member yang paling berharga yakni diamond member ternyata sejauh ini hanya merupakan para pengusaha. Oleh karena itu, saya sarankan untuk memprioritaskan target pemasaran pada para pengusaha mengingat merekalah kelompok yang menyumbangkan nilai belanja paling tinggi pada perusahaan ini.
 * Gold member sejauh ini hanya diisi oleh para professional dan ibu rumah tangga, lalu silver member sejauh ini hanya diisi oleh para pelajar dan mahasiswa.
 * Pelanggan sejauh ini didominasi oleh wanita dengan persentase 82%. Perbedaannya sangat jauh mengingat persentase pria hanya 18% sehingga bisa jadi secara natural memang kalangan wanitalah yang cenderung tertarik untuk belanja di perusahaan ini. Oleh karena itu, saya sarankan untuk memprioritaskan target pemasaran pada wanita.
